@@ -48,7 +48,7 @@ body {
   height: 40px;
   border-radius: 25px;
   padding: 0 10px;
-  border: 1px solid #dfe1e5;
+  border: 1px solid #9c9ea7;
 }
 
 .InputSection i {
@@ -191,6 +191,10 @@ span {
   color: #dbd6d6;
   font-size: 14px;
   font-weight: bold;
+}
+
+.input-field input {
+  color: white;
 }
 
 /* END OF ADVANCE HOMEPAGE */
